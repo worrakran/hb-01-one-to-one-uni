@@ -25,6 +25,10 @@ public class InstructorDetail {
 		this.youtubeChannel = youtubeChannel;
 		this.hobby = hobby;
 	}
+	
+	public InstructorDetail() {
+	}
+	
 	// generate getter/setter
 
 	public int getId() {

@@ -39,6 +39,9 @@ public class Instructor {
 		this.email = email;
 	}
 	
+	public Instructor() {
+	}
+
 	// define getter/setter
 	public int getId() {
 		return id;
